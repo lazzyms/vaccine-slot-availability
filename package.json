@@ -1,0 +1,18 @@
+{
+  "name": "cowin-slot-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Maulik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.5.0",
+    "follow-redirects": "^1.14.0",
+    "node-schedule": "^2.0.0",
+    "nodemailer": "^6.6.0"
+  }
+}
